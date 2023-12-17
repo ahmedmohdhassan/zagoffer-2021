@@ -1,0 +1,61 @@
+name: zagoffer
+description: A new Flutter application.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.3
+  intl: ^0.17.0
+  carousel_pro_nullsafety: ^1.0.2
+  provider: ^5.0.0
+  share: ^2.0.4
+  animated_text_kit: ^4.2.1
+  flutter_spinkit: ^5.0.0
+  firebase_messaging: ^10.0.5
+  firebase_core: ^1.5.0
+  shared_preferences: ^2.0.6
+  http: ^0.13.3
+  url_launcher: ^6.0.9
+  flutter_html: ^2.1.1 
+  flutter_local_notifications: ^8.1.1+1
+  uni_links: ^0.5.1
+  fzregex: ^2.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^1.2.1
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/logo.png
+    - images/emptycart.png
+    - images/empty_cart.jpg
+    - images/flash_sale.png
+    - images/splash.png
+    
+
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: fonts/Tajawal-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic

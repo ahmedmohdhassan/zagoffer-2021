@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438050768983",
+    "project_id": "zagoffer-19eda",
+    "storage_bucket": "zagoffer-19eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438050768983:android:ad6cf71430580430d3bb12",
+        "android_client_info": {
+          "package_name": "com.mahgoubtech.zagoffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438050768983-s8ht4gno6rsqvs75sm44crm9ufbcilf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWnoN7fu7qhygRenfUHlRujUaS7IAYBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438050768983-s8ht4gno6rsqvs75sm44crm9ufbcilf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
